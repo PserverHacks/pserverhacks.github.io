@@ -9,3 +9,5 @@ AR - Use this link: http://pserverhacks.github.io/AR.swf?build=1.1X
 Domain of Magica - GM, DEX, KA
 
 ADDING SHOTS REALM AND PROJECT B
+
+NONE OF THESE HACKS ARE UPDATED OR MAINTAINED. DO NOT DEPEND ON THESE
